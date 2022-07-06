@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: rgb(23, 23, 23);
+  background-color: rgb(25, 25, 25);
 }
 
 .imagem-foto{
@@ -33,7 +33,7 @@ h1 {
   display: flex;
   font-size: 25px;
   justify-content: center;
-  margin: 10px;
+  margin: 20px;
 }
 
 .menu {
@@ -47,10 +47,9 @@ li > a {
   justify-content: center;
   align-items: center;
   position: absolute;
-  padding-left: 36px;
   border-radius: 7px;
   height: 40px;
-  width: 200px;
+  width: 230px;
   color: white;
   text-decoration: none;
   font-size: 14px;
@@ -76,14 +75,14 @@ li > a {
 
 .menu > li {
   display: flex;
+  justify-content: center;
   height: 40px;
-  width: 200px;
+  width: 230px;
   border-radius: 6px;
   background-color: rgb(0, 52, 95);
   list-style: none;
   align-items: center;
   margin: 7px;
-  padding-right: 15px;
 }
 
 .menu > li > img {
@@ -109,10 +108,11 @@ li > a {
 footer {
   display: flex;
   justify-content: center;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: white;
   text-decoration: none;
   margin-top: 20px;
+  font-size: 12px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
