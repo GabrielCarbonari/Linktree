@@ -54,7 +54,7 @@ li > a {
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .menu > li:hover {
